@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Pier77Repeter ;)
+## 👋 Hi there, I’m Pier77Repeter ;)
 
 - 🎮 I play Minecraft, Garry's Mod, Geometry Dash and some games on Steam
 - 👀 I’m currently learning: C language
