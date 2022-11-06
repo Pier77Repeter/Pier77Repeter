@@ -3,7 +3,7 @@
 ---
 
 - 🎮 I play Minecraft, Garry's Mod, Geometry Dash and some games on Steam
-- 👀 I’m currently learning: HTML
+- 👀 I’m currently learning: C
 - 📫 Discord server: https://discord.gg/KxadTdz
 - 🛠️ Developer of DiversityBOT: https://discord.com/api/oauth2/authorize?client_id=878594739744673863&permissions=1511945403719&scope=bot
 <!---
