@@ -1,8 +1,8 @@
-### 👋 Hi there, I’m Pier77Repeter ;)
+### 👋 Hi there, i’m Pier77Repeter
 
 ---
 
-- 🎮 I play Minecraft, Garry's Mod, Geometry Dash and some games on Steam
+- 🎮 I play Minecraft, Garry's Mod, Geometry Dash and other games on Steam
 - 👀 I’m currently learning: Java
 - 📫 Discord server: https://discord.gg/KxadTdz
 - 🛠️ Developer of DiversityBOT: [https://diversitybot.onrender.com/](https://diversitybot.onrender.com/)
