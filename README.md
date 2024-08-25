@@ -4,12 +4,9 @@
 
 - 🎮 I play Minecraft, Garry's Mod, Geometry Dash and other games on Steam
 - 👀 I’m currently learning: Java
-- 📫 Discord server: https://discord.gg/KxadTdz
-- 🛠️ Developer of DiversityBOT: [https://diversitybot.onrender.com/](https://diversitybot.onrender.com/)
-<!---
-Pier77Repeter/Pier77Repeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👑 Owner: [https://diversitycraft.onrender.com/](https://diversitycraft.onrender.com/)
+- - 🛠️ Developer of DiversityBOT: [https://diversitybot.onrender.com/](https://diversitybot.onrender.com/)
+- 📫 Discord server: [https://discord.gg/KxadTdz](https://discord.gg/KxadTdz)
 
 ---
 
