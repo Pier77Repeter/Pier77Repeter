@@ -5,7 +5,7 @@
 - 🎮 I play Minecraft, Garry's Mod, Geometry Dash and other games on Steam
 - 👀 I’m currently learning: Java
 - 👑 Owner: [https://diversitycraft.onrender.com/](https://diversitycraft.onrender.com/)
-- - 🛠️ Developer of DiversityBOT: [https://diversitybot.onrender.com/](https://diversitybot.onrender.com/)
+- 🛠️ Developer of DiversityBOT: [https://diversitybot.onrender.com/](https://diversitybot.onrender.com/)
 - 📫 Discord server: [https://discord.gg/KxadTdz](https://discord.gg/KxadTdz)
 
 ---
