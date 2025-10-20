@@ -1,4 +1,4 @@
-# 👋 HEELLLLOOOOOOOO there, i’m Pier77Repeter
+# 👋 HEELLLLOOOOOOOO THERE!
 
 ### About me
 
@@ -6,10 +6,10 @@ Italian dude who loves IT, mainly coding, yeah. I'm a big fan of <a href="https:
 
 ---
 ### Other things
-- 🎮 I play Minecraft, Garry's Mod, Geometry Dash and other games on Steam
+- 🎮 I play Minecraft, HOI4, Garry's Mod, Geometry Dash and other games on Steam
 - 👀 I’m currently learning: Java
-- 👑 Owner: [https://diversitycraft.onrender.com/](https://diversitycraft.onrender.com/)
-- 🛠️ Developer of DiversityBOT: [https://diversitybot.onrender.com/](https://diversitybot.onrender.com/)
+- 👑 Owner: [https://www.diversitycraft.xyz/](https://www.diversitycraft.xyz/)
+- 🛠️ Developer of DiversityBOT: [https://bot.diversitycraft.xyz/](https://bot.diversitycraft.xyz/)
 - 📫 Discord server: [https://discord.gg/KxadTdz](https://discord.gg/KxadTdz)
 
 ---
