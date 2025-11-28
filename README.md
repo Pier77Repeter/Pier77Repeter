@@ -8,8 +8,8 @@ Italian dude who loves IT, mainly coding, yeah. I'm a big fan of <a href="https:
 ### Other things
 - 🎮 I play Minecraft, HOI4, Garry's Mod, Geometry Dash and other games on Steam
 - 👀 I’m currently learning: Java
-- 👑 Owner: [https://www.diversitycraft.xyz/](https://www.diversitycraft.xyz/)
-- 🛠️ Developer of DiversityBOT: [https://bot.diversitycraft.xyz/](https://bot.diversitycraft.xyz/)
+- 👑 Owner: [https://www.diversitycraft.org/](https://www.diversitycraft.org/)
+- 🛠️ Developer of DiversityBOT: [https://bot.diversitycraft.org/](https://bot.diversitycraft.org/)
 - 📫 Discord server: [https://discord.gg/KxadTdz](https://discord.gg/KxadTdz)
 
 ---
